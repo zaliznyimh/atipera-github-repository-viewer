@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: github-viewer
+
+github:
+  api:
+    base-url: https://api.github.com
